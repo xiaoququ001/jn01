@@ -12,6 +12,8 @@ echo '到此一游';
 
 echo '这是什么鬼';
 
+echo 'hello word';
+
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
