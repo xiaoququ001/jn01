@@ -9,3 +9,5 @@ echo "me too";
 echo 'hehe';
 
 echo '这是什么鬼';
+
+echo '张小宁 <> 冯昌浩'
